@@ -34,10 +34,9 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
 </p>
