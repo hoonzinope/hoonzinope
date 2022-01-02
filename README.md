@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=hi%20hoonzi&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=hello%20:\)&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-<h3 align="center">👋 Hi there i'm hoonzi 👋</h3>
+<h3 align="center">👋 Hi there i'm hoonzi</h3>
 <p align="center">
   🤔 I’m looking for
-  <br>
-  something fun 😄
+  something...new
 </p>
 
 <!-- ### hoonzi's TECH STACK -->
